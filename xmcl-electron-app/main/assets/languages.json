@@ -475,6 +475,11 @@
             "name": "Cymraeg",
             "bidirectional": false
         }
+        "tt_ru": {
+            "region": "Рәсәй",
+            "name": "Татарча",
+            "bidirectional": false
+        }
     },
     "pack": {
         "description": "The default look of Minecraft",
