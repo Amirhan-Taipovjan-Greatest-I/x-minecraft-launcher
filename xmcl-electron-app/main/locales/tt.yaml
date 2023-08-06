@@ -1,0 +1,21 @@
+browseApps: Browse Customized Launcher UI
+checkUpdate: Яңартуны тикшерү
+openUrl:
+  cancel: Баш тарту
+  message: >-
+    The launcher want to open the {url} in your default browser. Do you allow
+    this operation?
+  title: Браузерда ачу
+  trust: Trust this site and don't show next time
+  'yes': 'Yes'
+quit: Чыгу
+showDiagnosis: Show Diagnose
+showLauncher: Лаунчерны күрсәтү
+showLogsFolder: Журналлар папкасы
+task:
+  continue: Лаунчерда карау
+  fail: One Task Failed
+  success: One Task Success
+title: X Minecraft Launcher
+urlFailed: Unknown url {url}. Please check your url or contact developer!
+urlSuccess: Succeed! Now you can close this window and return to the launcher!
